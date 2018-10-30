@@ -5,7 +5,7 @@ end
 
 def select_name_and_motto_of_char_with_longest_motto
   "SELECT characters.name, characters.motto FROM characters
-  HAVING characters.motto = MAX"
+  GROUP BY characters.name HAVING characters.motto = MAX"
 end
 
 
