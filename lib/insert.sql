@@ -20,5 +20,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gau
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Aariel", "Where there is an unreconciled quarrel, everybody suffers", "Seraphim", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dobby", "Dobby has no master. Dobby is a free elf!", "House Elf", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hedwig", "Very smart owl you've got there", "Owl", 2, 2);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Firenze" "Centaurs are not the servants or playthings of humans.", "Centaur", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Firenze", "Centaurs are not the servants or playthings of humans.", "Centaur", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Grawp", "HERMY! WHERE HAGGER?" "Giant", 2, 2);
