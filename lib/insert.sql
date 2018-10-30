@@ -14,11 +14,11 @@ INSERT INTO books (title, year, series_id) VALUES ("The Philosopher's Stone", 19
 INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Prisoner of Azkaban", 1999, 2);
 
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Mrs. Which" "Only a fool is not afraid", "Divine Being",1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES (1, 1);
 INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (1, 1);
-INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (1, 1);
-INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (1, 1);
-INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES (1, 1);
-INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES ("Dobby", "Dobby has no master. Dobby is a free elf!", "House Elf", 2, 2);
-INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES ("Hedwig", "Very smart owl you've got there", "Owl", 2, 2);
-INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES ("Firenze" "Centaurs are not the servants or playthings of humans.", "Cantaur", 2, 2);
-INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES ("Grawp", "HERMY! WHERE HAGGER?" "Giant", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES (1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dobby", "Dobby has no master. Dobby is a free elf!", "House Elf", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hedwig", "Very smart owl you've got there", "Owl", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Firenze" "Centaurs are not the servants or playthings of humans.", "Cantaur", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Grawp", "HERMY! WHERE HAGGER?" "Giant", 2, 2);
