@@ -18,6 +18,7 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Mrs
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Proginoskes", "Idiot. Love is how you feel. It's what you do", "Single Cherubim", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gaudior", "I am a mere unicorn.", "Winged unicorn", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Aariel", "Where there is an unreconciled quarrel, everybody suffers", "Seraphim", 1, 1);
+
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dobby", "Dobby has no master. Dobby is a free elf!", "House Elf", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hedwig", "Very smart owl you've got there", "Owl", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Firenze", "Centaurs are not the servants or playthings of humans.", "Centaur", 2, 2);
@@ -25,8 +26,10 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gra
 
 INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
 INSERT INTO character_books (book_id, character_id) VALUES (2, 2);
-INSERT INTO character_books (book_id, character_id) VALUES (3, ,3);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 3);
 INSERT INTO character_books (book_id, character_id) VALUES (3, 4);
 
-INSERT INTO character_books (book_id, character_id) VALUES (5, );
-INSERT INTO character_books (book_id, character_id) VALUES (6, );
+INSERT INTO character_books (book_id, character_id) VALUES (5, 5);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 6);
+INSERT INTO character_books (book_id, character_id) VALUES (4, 7);
+INSERT INTO character_books (book_id, character_id) VALUES (6, 8);
