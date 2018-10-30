@@ -28,6 +28,10 @@ INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
 INSERT INTO character_books (book_id, character_id) VALUES (2, 2);
 INSERT INTO character_books (book_id, character_id) VALUES (3, 3);
 INSERT INTO character_books (book_id, character_id) VALUES (3, 4);
+INSERT INTO character_books (book_id, character_id) VALUES (, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (, 2);
+INSERT INTO character_books (book_id, character_id) VALUES (, 3);
+INSERT INTO character_books (book_id, character_id) VALUES (, 4);
 
 INSERT INTO character_books (book_id, character_id) VALUES (5, 5);
 INSERT INTO character_books (book_id, character_id) VALUES (4, 6);
