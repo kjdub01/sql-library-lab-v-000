@@ -22,3 +22,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Dob
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hedwig", "Very smart owl you've got there", "Owl", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Firenze", "Centaurs are not the servants or playthings of humans.", "Centaur", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Grawp", "HERMY! WHERE HAGGER?", "Giant", 2, 2);
+
+INSERT INTO character_books (book_id, character_id) VALUES ();
