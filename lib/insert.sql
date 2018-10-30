@@ -14,7 +14,7 @@ INSERT INTO books (title, year, series_id) VALUES ("The Philosopher's Stone", 19
 INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Prisoner of Azkaban", 1999, 2);
 
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Mrs. Which" "Only a fool is not afraid", "Divine Being", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Mrs. Which", "Only a fool is not afraid", "Divine Being", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Proginoskes", "Idiot. Love is how you feel. It's what you do", "Single Cherubim", 1, 1);
 INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES ("Gaudior", "I am a mere unicorn." "Winged unicorn", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Aariel", "Where there is an unreconciled quarrel, everybody suffers", "Seraphim", 1, 1);
