@@ -23,4 +23,10 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hed
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Firenze", "Centaurs are not the servants or playthings of humans.", "Centaur", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Grawp", "HERMY! WHERE HAGGER?", "Giant", 2, 2);
 
-INSERT INTO character_books (book_id, character_id) VALUES ();
+INSERT INTO character_books (book_id, character_id) VALUES (1, 1);
+INSERT INTO character_books (book_id, character_id) VALUES (2, 2);
+INSERT INTO character_books (book_id, character_id) VALUES (3, ,3);
+INSERT INTO character_books (book_id, character_id) VALUES (3, 4);
+
+INSERT INTO character_books (book_id, character_id) VALUES (5, );
+INSERT INTO character_books (book_id, character_id) VALUES (6, );
